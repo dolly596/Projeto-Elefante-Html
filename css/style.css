@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap&#39');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.bg{
+ 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+.navt{
+    background-color: #6946A2;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    color: white;
+
+}
+.logozin{
+    width: 180px;
+    margin-left: 20px;
+    
+    display: flex;
+    
+}
+.textobanner{
+    font-family: "Boogaloo", sans-serif;
+    margin-top: 150px;
+    margin-left: 150px;
+    width: 440px;
+    display: flex;
+    font-size: 5.3rem;
+    color: white;
+    position: absolute;
+   
+}
+.logo{
+    width: 80px;
+    height: 80px;
+
+}
+.textlogo{
+    font-family: "Boogaloo", sans-serif;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 1.8rem;
+}
+.uls{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    margin-right: 50px;
+    justify-content: space-between;
+    list-style: none;
+    font-family: "Boogaloo", sans-serif;
+    width: 60%;
+}
+.textnav{
+    font-weight: 0.8rem;
+    font-family: "Boogaloo", sans-serif;
+    color: white;
+    display: flex;
+}
+
+.textad{
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Boogaloo", sans-serif;
+    font-size: 2.2rem;
+    background-color: rgb(216, 175, 23);
+    width: 300px;
+    align-items: center;
+    display: flex;
+    border-radius: 30px;
+}
